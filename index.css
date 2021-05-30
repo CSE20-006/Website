@@ -112,7 +112,7 @@ nav li a {
 @media screen and (max-width: 500px){
    
     nav li{
-        margin: 8% 6.8%;
+        margin: 8% 6.6%;
     }
     
     header{
@@ -121,7 +121,7 @@ nav li a {
     .content{
         
         position: relative;
-        top: 500px;   
+        top: 550px;   
         right: 570px;
         
     }
